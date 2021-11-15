@@ -11,5 +11,5 @@ elif B>A and B>C:
 elif C>A and C>B:
     print("C is the greater")
 else:
-    print("A,B,C are the same number")
+    print("2 or more numbers are the same")
             
